@@ -1,0 +1,7 @@
+{
+  "name": "home-control",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
